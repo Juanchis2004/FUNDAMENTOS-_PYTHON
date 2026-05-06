@@ -24,4 +24,6 @@ print(x)
 x **= 4
 print(x)
 
+# nueva forma de asignacion (walrus operator)
 print(x  := 10)
+

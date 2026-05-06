@@ -1,5 +1,8 @@
 #Operadores Aritméticos
 
+import math
+import random
+
 a = 3
 b = 2
 
@@ -50,13 +53,9 @@ print(f"El resultado de la expresión ({a} * ({b} // 3)) es: {resultado_5}")
 ejercicio = ((a + b) * (a - b) / (a * b)) - (a ** b % 3)
 print(f"El resultado de la expresión (({a} + {b}) * ({a} - {b}) / ({a} * {b})) - ({a} ** {b} % 3) es: {ejercicio}")
 
-import math
-
 print(math.pi)
 print(math.e)
 print(math.sqrt(16))
-
-import random
 
 #print(random.random())
 random_number = random.randint(1, 10)  
