@@ -27,3 +27,21 @@ print(type(altura_int))
 print(altura_int)
 print(type(cedula_str))
 print(cedula_str)
+
+# =========================
+# Ejercicio 1
+# Crear variables según criterio:
+# - Nombre de una persona
+# - Valor de un producto
+# - Promedio de una asignatura
+# - Imprimir en consola las variables creadas
+# =========================
+
+nombre_persona = "Juan"
+valor_producto = 25000
+promedio_asignatura = 4.2
+
+print("\n--- Ejercicio 1 ---")
+print(nombre_persona)
+print(valor_producto)
+print(promedio_asignatura)
