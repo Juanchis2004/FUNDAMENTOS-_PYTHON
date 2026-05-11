@@ -7,6 +7,8 @@
 # - Imprimir en consola las variables creadas
 # =========================
 
+import math
+
 nombre_persona = "Juan"
 valor_producto = 25000
 promedio_asignatura = 4.2
@@ -75,8 +77,6 @@ print(f"Potencia (base^exponente): {potencia}")
 # 2, 8, 9, 27, 28, 55, 121
 # y mostrar los resultados de cada operación.
 # =========================
-
-import math
 
 numeros = [2, 8, 9, 27, 28, 55, 121]
 
