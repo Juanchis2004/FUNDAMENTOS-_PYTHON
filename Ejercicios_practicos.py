@@ -233,3 +233,5 @@ else:
 
 print(f"Edad: {edad}")
 print(f"Categoría: {categoria}")
+
+
